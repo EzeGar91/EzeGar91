@@ -1,5 +1,5 @@
 # Hola! 👋 Mi nombre es Ezequiel Garriga.
-## Soy estudiante Developer **FullStack Javascript**
+## Soy estudiante **FullStack Javascript** Developer
 > Vivo en Cordoba Capital, Argentina. Actualmente estoy estudiando en el Bootcamp de Guillermo Rodas.
 
 > Reforzando conocimientos en FrontEnd como: **HTML, CSS, JavaScript, React**. Y en Backend con **Node.JS**.
